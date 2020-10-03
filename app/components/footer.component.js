@@ -4,6 +4,7 @@ class Footer extends React.Component {
   constructor(props) {
     super(props);
   }
+  /*footer componenet is on the bottom of the screen*/
 
   render(){
     return(
